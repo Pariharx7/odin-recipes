@@ -1,5 +1,5 @@
 # odin-recipes
-
+## Description
 This is the first project assigned by The Odin Project.
 In this project, we are going to build a HTML webpage that will provide information regarding delicious food recipes.
 
